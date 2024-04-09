@@ -5,7 +5,7 @@ import CadastroColetora from "./cadastroColetora";
 
 export default function Index(){
     return (
-        <CadastroColetora />
+        <CadastroColetora/>
     )
 }
 
